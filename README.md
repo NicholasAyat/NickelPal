@@ -1,4 +1,4 @@
-# NickelPal
+# NickelPal 📈
 
 ![Logo](images/NickelPal_Logo.png)
 
